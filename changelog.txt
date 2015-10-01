@@ -1,3 +1,5 @@
 This is test modification - new file added to git repo.
 
+Here is modification inside master branch.
+
 Arturu..
